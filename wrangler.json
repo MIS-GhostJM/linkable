@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "linkable",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "ce5350b2-bb9f-42b2-b5cc-31a502e06e4b",
+      "database_name": "Link_TrackerD1_db"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
